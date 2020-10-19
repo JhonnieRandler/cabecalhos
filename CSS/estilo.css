@@ -1,0 +1,16 @@
+#externo {
+    border: solid 1px black;
+    background-color: rgb(163, 188, 211);
+    font-family: Helvetica;
+    width: 60%;
+    padding: 10px;
+}
+#externo > h1 {
+    background-color: rgb(173, 205, 238);
+    color: darkblue;
+    font-size: 30px;
+}
+#externo > h2 {
+    color: darkred;
+    font-size: 20px;
+}
